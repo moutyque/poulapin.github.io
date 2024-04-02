@@ -4,7 +4,8 @@ site_author: you
 site_description: a short description of your website
 
 nav:
-  - About: index.md
+  - Mission: index.md
+  - first:
 
 theme:
   name: readthedocs
