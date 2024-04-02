@@ -6,6 +6,8 @@ site_description: a short description of your website
 nav:
   - main: index.md
   - first: first.md
+  - next: next.md
+  - last: last.md
 
 theme:
   name: readthedocs

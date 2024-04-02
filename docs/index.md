@@ -11,7 +11,7 @@ Heureusement, la créature n'existe pas encore. Seuls ses deux géniteurs, un la
 
 ### Objectif de la mission
 
-Votre mission, si vous l'acceptez, est de localiser et d'éliminer les géniteurs du Poulapin (la poule et le lapin) ainsi que leurs 53 rejetons.
+Votre mission, si vous l'acceptez, est de localiser et d'éliminer les géniteurs du Poulapin (la poule et le lapin) ainsi que leurs 57 rejetons.
 
 ### Indices et informations
 
