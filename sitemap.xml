@@ -7,5 +7,13 @@
      <loc>https://moutyque.github.io/poulapin.github.io/first/</loc>
      <lastmod>2024-04-02</lastmod>
      <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://moutyque.github.io/poulapin.github.io/next/</loc>
+     <lastmod>2024-04-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://moutyque.github.io/poulapin.github.io/last/</loc>
+     <lastmod>2024-04-02</lastmod>
+     <changefreq>daily</changefreq>
     </url>
 </urlset>
