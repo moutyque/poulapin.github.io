@@ -5,7 +5,7 @@ site_description: a short description of your website
 
 nav:
   - Mission: index.md
-  - first:
+  - first: first.md
 
 theme:
   name: readthedocs
